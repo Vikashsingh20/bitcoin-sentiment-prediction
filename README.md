@@ -135,7 +135,9 @@ Users can:
 
 
 
-## 📦 Project Structure
+## 📂 Project Structure
+
+```
 bitcoin-market-prediction
 │
 ├── app.py
@@ -149,7 +151,7 @@ bitcoin-market-prediction
 │   ├── sentiment_vs_return.png
 │   ├── correlation_heatmap.png
 │   └── btc_price_trend.png
-
+```
 
 
 
