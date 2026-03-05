@@ -1,4 +1,5 @@
-📈 Bitcoin Market Direction Prediction using Sentiment Analysis
+📈 Bitcoin Market Direction Prediction using Sentiment Analysis  
+
 📌 Project Overview
 
 This project predicts the next-day direction of Bitcoin price (UP or DOWN) using Twitter sentiment analysis and market features.
