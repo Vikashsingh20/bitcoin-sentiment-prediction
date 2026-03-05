@@ -139,13 +139,16 @@ Users can:
 bitcoin-market-prediction
 │
 ├── app.py
-├──images
 ├── btc_sentiment_model.pkl
-├── eda_training.ipynb
-├── Bitcoin_tweets.csv
-├── daily_avg_sentiment.csv
+├── README.md
 ├── requirements.txt
-└── README.md
+│
+├── images
+│   ├── sentiment_distribution.png
+│   ├── return_distribution.png
+│   ├── sentiment_vs_return.png
+│   ├── correlation_heatmap.png
+│   └── btc_price_trend.png
 
 
 
@@ -181,6 +184,8 @@ Market looks very strong
 #Example output:
 📈 Market Likely UP Tomorrow
 Confidence: 63%
+
+---
 
 
 ## 🔮 Future Improvements
