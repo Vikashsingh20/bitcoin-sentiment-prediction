@@ -93,3 +93,24 @@ Additional features created:
 Target variable:  
 target = 1 → Price goes UP tomorrow  
 target = 0 → Price goes DOWN tomorrow
+
+
+## 📊 Exploratory Data Analysis
+
+<h3>Sentiment Distribution</h3>
+<img src="images/sentiment_distribution.png" width="700">
+
+<h3>Next Day Return Distribution</h3>
+<img src="images/nextday_return_distribution.png" width="700">
+
+<h3>Sentiment vs Next Day Return</h3>
+<img src="images/sentiment_vs_return.png" width="700">
+
+<h3>Correlation Heatmap</h3>
+<img src="images/correlation_heatmap.png" width="700">
+
+<h3>Sentiment Over Time</h3>
+<img src="images/sentiment_over_time.png" width="700">
+
+<h3>Bitcoin Price Trend</h3>
+<img src="images/btc_price_trend.png" width="700">
