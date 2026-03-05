@@ -91,3 +91,5 @@ Additional features created:
 - Log volume transformation
 
 Target variable:
+target = 1 → Price goes UP tomorrow
+target = 0 → Price goes DOWN tomorrow
