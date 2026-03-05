@@ -114,3 +114,111 @@ target = 0 → Price goes DOWN tomorrow
 
 <h3>Bitcoin Price Trend</h3>
 <img src="images/btc_price_trend.png" width="700">
+
+
+
+---
+
+## 🖥️ Streamlit Web App
+
+The project includes a **Streamlit application** where users can input tweets and get predictions.
+
+Users can:
+
+1. Enter tweets related to Bitcoin
+2. System calculates sentiment
+3. Latest BTC data is fetched automatically
+4. Model predicts **tomorrow's market direction**
+
+---
+
+
+
+
+## 📦 Project Structure
+bitcoin-market-prediction
+│
+├── app.py
+├──images
+├── btc_sentiment_model.pkl
+├── eda_training.ipynb
+├── Bitcoin_tweets.csv
+├── daily_avg_sentiment.csv
+├── requirements.txt
+└── README.md
+
+
+
+
+---
+
+## 🛠️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/bitcoin-market-prediction.git
+
+Move into the project folder:
+cd bitcoin-market-prediction
+
+Install dependencies:
+pip install -r requirements.txt
+
+
+
+#▶️ Run the Streamlit App
+streamlit run app.py
+
+
+#📊 Example Prediction
+Example input tweets:
+
+Bitcoin is going to the moon 🚀
+Strong bullish momentum
+Market looks very strong
+
+#Example output:
+📈 Market Likely UP Tomorrow
+Confidence: 63%
+
+
+## 🔮 Future Improvements
+
+Possible improvements for this project:
+
+- Use larger tweet datasets  
+- Add transformer models like **FinBERT**  
+- Include additional technical indicators  
+- Improve feature engineering  
+- Use deep learning models (**LSTM**)  
+- Hyperparameter tuning  
+- Deploy on **Streamlit Cloud**
+
+---
+
+## 🧰 Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- XGBoost  
+- VADER Sentiment  
+- yfinance  
+- Streamlit  
+- Matplotlib  
+- Seaborn  
+
+---
+
+
+---
+
+## 👨‍💻 Author
+
+**Vikash Singh**
+
+Machine Learning Project  
+Bitcoin Sentiment Market Prediction
+
