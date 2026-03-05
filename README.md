@@ -219,6 +219,11 @@ Possible improvements for this project:
 
 ---
 
+## Dataset
+
+The dataset used in this project is available here:
+
+https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets?select=Bitcoin_tweets.csv
 
 ---
 
